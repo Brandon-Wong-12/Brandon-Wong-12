@@ -1,4 +1,9 @@
-### Hi there 👋
+# About me
+
+- 👨‍🎓 currently studying at SFU
+- 📃 more to be added soon
+
+
 
 <!--
 **Brandon-Wong-12/Brandon-Wong-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+For more ideas look here -> https://github.com/education/launchpad-profile-readme
 -->
